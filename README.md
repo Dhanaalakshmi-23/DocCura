@@ -1,4 +1,7 @@
-# DocCura
+# 🩺 DocCura - Your AI Health Assistant
+
+DocCura is an intelligent medical assistant powered by Retrieval-Augmented Generation (RAG), allowing users to ask health-related questions and get answers based on PDF documents using OpenAI or Hugging Face models.
+![Landing Page](Screenshot/Interface.png)
 
 ## 🚀 How to run?
 ### ✅ Prerequisites
